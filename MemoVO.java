@@ -34,4 +34,7 @@ public class MemoVO {
     public LocalDate getMemodate() {
         return memodate;
     }
+    public LocalDate setMemodate(){
+        return memodate;
+    }
 }
